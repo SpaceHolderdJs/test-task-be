@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "test_task_be",
+    "password": "WKBeq8oZjLL7T6fLaldaKfdefG964eiI",
+    "database": "test_task_be_mgo8",
+    "host": "dpg-cg7jp702qv28u2tq9rcg-a.frankfurt-postgres.render.com",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "test_task_be",
+    "password": "WKBeq8oZjLL7T6fLaldaKfdefG964eiI",
+    "database": "test_task_be_mgo8",
+    "host": "dpg-cg7jp702qv28u2tq9rcg-a.frankfurt-postgres.render.com",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "test_task_be",
+    "password": "WKBeq8oZjLL7T6fLaldaKfdefG964eiI",
+    "database": "test_task_be_mgo8",
+    "host": "dpg-cg7jp702qv28u2tq9rcg-a.frankfurt-postgres.render.com",
+    "dialect": "postgres"
+  }
+}
